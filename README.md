@@ -24,8 +24,7 @@ year.
 
 This project aims to collect a variety of profile and repository statistics
 using the GitHub API. It then generates images that can be displayed in
-repository READMEs, or in a user's [Profile
-README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+repository READMEs, or in a user's [Profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
 Since the project runs on GitHub Actions, no server is required to regularly
 regenerate the images with updated statistics. Likewise, since the user runs
